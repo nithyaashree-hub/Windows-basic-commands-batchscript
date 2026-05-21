@@ -129,7 +129,7 @@ The script should repeatedly display the menu until the user chooses to exit. Us
 
 ## OUTPUT
 
-<img width="975" height="284" alt="12" src="https://github.com/user-attachments/assets/02e926fe-9db2-42dc-866a-03607f51b05b" />
+<img width="1167" height="460" alt="13" src="https://github.com/user-attachments/assets/eba91f33-5ba6-42cf-bace-b4e7b5d61af6" />
 
 # RESULT:
 The commands/batch files are executed successfully.
